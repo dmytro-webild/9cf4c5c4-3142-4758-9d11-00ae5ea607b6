@@ -64,7 +64,7 @@ export default function LandingPage() {
           handle: "@aliceg",
           testimonial: "Excellent service and high-quality products!",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/travel-still-life-pack-flat-lay_23-2148837343.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/travel-still-life-pack-flat-lay_23-2148837343.jpg?_wi=1",
           imageAlt: "e-commerce products studio shot",
         },
         {
@@ -80,7 +80,7 @@ export default function LandingPage() {
           handle: "@sarahp",
           testimonial: "Fast shipping and fantastic customer support.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/stylish-workspace-with-female-things_23-2147778845.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/stylish-workspace-with-female-things_23-2147778845.jpg?_wi=1",
           imageAlt: "e-commerce products studio shot",
         },
         {
@@ -88,7 +88,7 @@ export default function LandingPage() {
           handle: "@jessr",
           testimonial: "Truly the best shopping experience online.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/handcrafted-wooden-decorative-vases_23-2151003007.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/handcrafted-wooden-decorative-vases_23-2151003007.jpg?_wi=1",
           imageAlt: "e-commerce products studio shot",
         },
         {
@@ -96,11 +96,11 @@ export default function LandingPage() {
           handle: "@davidl",
           testimonial: "Impeccable quality and premium packaging.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/retro-computer-technology-with-monitor-hardware_23-2149506841.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/retro-computer-technology-with-monitor-hardware_23-2149506841.jpg?_wi=1",
           imageAlt: "e-commerce products studio shot",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/travel-still-life-pack-flat-lay_23-2148837343.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/travel-still-life-pack-flat-lay_23-2148837343.jpg?_wi=2"
       avatars={[
         {
           src: "http://img.b2bpic.net/free-photo/cheerful-employees-looking-laptop-laughing_74855-4007.jpg",
@@ -187,21 +187,21 @@ export default function LandingPage() {
           name: "Ergonomic Chair",
           price: "$299",
           variant: "Default",
-          imageSrc: "http://img.b2bpic.net/free-photo/stylish-workspace-with-female-things_23-2147778845.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/stylish-workspace-with-female-things_23-2147778845.jpg?_wi=2",
         },
         {
           id: "p2",
           name: "Minimalist Lamp",
           price: "$89",
           variant: "Matte",
-          imageSrc: "http://img.b2bpic.net/free-photo/handcrafted-wooden-decorative-vases_23-2151003007.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/handcrafted-wooden-decorative-vases_23-2151003007.jpg?_wi=2",
         },
         {
           id: "p3",
           name: "Keyboard",
           price: "$129",
           variant: "RGB",
-          imageSrc: "http://img.b2bpic.net/free-photo/retro-computer-technology-with-monitor-hardware_23-2149506841.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/retro-computer-technology-with-monitor-hardware_23-2149506841.jpg?_wi=2",
         },
         {
           id: "p4",
