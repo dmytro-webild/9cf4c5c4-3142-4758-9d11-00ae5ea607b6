@@ -317,7 +317,7 @@ export default function LandingPage() {
           icon: Globe,
         },
       ]}
-      title="Our Impact"
+      title="Ourlololol Impact"
       description="Numbers speak for our performance."
     />
   </div>
